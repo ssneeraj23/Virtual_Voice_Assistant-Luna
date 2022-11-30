@@ -24,7 +24,7 @@ def greet_user(USERNAME,engine=engine_d):
         speak("Did you have your Lunch Sir")
         time.sleep(0.5)
         speak("Sometimes I feel like eating real food Sir")
-    elif (hour >= 16) and (hour < 19):
+    elif (hour >= 16) :
         speak(f"Good Evening {USERNAME}")
         speak("Hope your day went as planned Sir")
     else :
