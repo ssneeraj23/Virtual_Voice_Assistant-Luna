@@ -12,4 +12,11 @@ enabling/disabling Bluetooth, Hotspot, and Night Light, all accessible via voice
 * Incorporated wake-word functionality, enabling the assistant to activate when a specific wake-word, such as "Hey Luna" is spoken.
 * Designed and implemented a training feature, allowing the assistant to learn new answers and utilize them in future interactions.
 
+## Required Python Modules :
+* speech_recognition
+* pyttsx3
+* pywhatkit
+* pyautogui
+* wikipedia
+* json
 
