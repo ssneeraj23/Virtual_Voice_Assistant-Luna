@@ -7,4 +7,9 @@ by pyautogui functions corresponding to respective action.
 
 The assistant's name is Luna
 
+* Implemented a wide range of features, including playing YouTube videos, performing Google searches, opening applications, and
+enabling/disabling Bluetooth, Hotspot, and Night Light, all accessible via voice commands.
+* Incorporated wake-word functionality, enabling the assistant to activate when a specific wake-word, such as "Hey Luna" is spoken.
+* Designed and implemented a training feature, allowing the assistant to learn new answers and utilize them in future interactions.
+
 
