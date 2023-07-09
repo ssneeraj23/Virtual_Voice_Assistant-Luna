@@ -1,4 +1,4 @@
-# Project_V
+
 Virtual assistant to automate desktop tasks.
 Libraries used include: pyautogui, pyttx3, speech recognition, time and datetime
 Currently in the basic stage of development and works well on windows 11
